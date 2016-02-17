@@ -1,0 +1,23 @@
+/* 
+    Created on : Feb 15, 2016, 5:37:37 PM
+    Author     : Greg Horne 
+*/
+
+.list-cell
+{
+    -fx-font-size: 12pt;
+}
+.list-cell:selected
+{
+    -fx-background-color: #aab;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+}
+.text-area
+{
+    -fx-font-size: 12pt;
+}
+.menu-bar
+{
+    -fx-font-size: 12pt;
+}
